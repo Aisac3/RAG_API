@@ -1,1 +1,1 @@
-DevOps is the practice of uniting development and operations to build, test, and deliver software faster, more reliably, and continuously.
+DevOps is the practice of uniting development and operations to build, test, and deliver software more faster, more reliably, and continuously.

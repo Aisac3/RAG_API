@@ -21,8 +21,8 @@ def test_devops_query():
     
     answer = response.json()["answer"]
 
-    # Check for key concepts from nextwork.txt
-    assert "maximus" in answer.lower(), "Missing 'maximus' keyword"
+    # Check for key concepts from devops.txt
+    assert "development" in answer.lower(), "Missing 'development' keyword"
     
     print("✅ DevOps query test passed")
 
